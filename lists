@@ -1,0 +1,11 @@
+#this is an exercise taken from Python Crash Course 3rd edition
+based on List#----->
+
+#excercise begings here---->
+Guest_list = ['BoB Marley', 'Micheal Jackson','Martain Luther king jr','Rosa Parks']
+print(Guest_list)
+
+Reggea_singer = 'BoB Marley'
+Guest_list.remove(Reggea_singer)
+print(f"\nA very good evening Mr {Reggea_singer.upper()} welcome to dinner ")
+#end here --->
